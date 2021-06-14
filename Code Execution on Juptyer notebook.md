@@ -1,0 +1,15 @@
+#Code Execution on Juptyer notebook.md
+
+![lungcode1](https://user-images.githubusercontent.com/25238652/121854289-efc74080-cd2c-11eb-8685-9195afb84cd5.PNG)
+![lungcode2](https://user-images.githubusercontent.com/25238652/121854294-f1910400-cd2c-11eb-89ac-251053925620.PNG)
+![lungcode 3](https://user-images.githubusercontent.com/25238652/121854298-f2c23100-cd2c-11eb-9f83-e3e0d7bded1e.PNG)
+![lungcode 4](https://user-images.githubusercontent.com/25238652/121854302-f35ac780-cd2c-11eb-9486-f567e9c59744.PNG)
+![lungcode5](https://user-images.githubusercontent.com/25238652/121854303-f3f35e00-cd2c-11eb-815d-500ee5ac3f44.PNG)
+![lungcode6](https://user-images.githubusercontent.com/25238652/121854308-f5248b00-cd2c-11eb-80b9-6b23efd3786c.PNG)
+![lungcode7](https://user-images.githubusercontent.com/25238652/121854310-f5bd2180-cd2c-11eb-88b4-ba24d867b80b.PNG)
+![lungcode 8](https://user-images.githubusercontent.com/25238652/121854315-f655b800-cd2c-11eb-82d0-5a348b5b3342.PNG)
+![lungcode 9](https://user-images.githubusercontent.com/25238652/121854316-f786e500-cd2c-11eb-9057-b3e8d7dfa321.PNG)
+![lungcode 10](https://user-images.githubusercontent.com/25238652/121854318-f81f7b80-cd2c-11eb-8b2e-699c11579f78.PNG)
+![lungcode 11](https://user-images.githubusercontent.com/25238652/121854322-f950a880-cd2c-11eb-8f50-ffa9ed4e17b8.PNG)
+![lungcode 12](https://user-images.githubusercontent.com/25238652/121854325-fa81d580-cd2c-11eb-9d60-6848540d8b9b.PNG)
+![lungcode 13](https://user-images.githubusercontent.com/25238652/121854329-fc4b9900-cd2c-11eb-8628-b3b25acae197.PNG)
